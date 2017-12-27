@@ -453,7 +453,6 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/header-bg.jpg') right no-repeat;
 	background-size: contain;
 	padding:0 100px 0;
 	height:auto;
